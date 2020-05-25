@@ -1,1 +1,1 @@
-# react-mini-project-1
+First Mini Project to showcase the basics of React components

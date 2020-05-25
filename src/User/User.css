@@ -1,0 +1,12 @@
+.output {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.output:hover {
+    background-color: #00aadd;
+    color: #fff;
+}
