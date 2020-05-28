@@ -1,1 +1,1 @@
-First Mini Project to showcase the basics of React components
+### First basic reactapp exploring components
